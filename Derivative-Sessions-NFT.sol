@@ -15,16 +15,16 @@ contract DerivativeSessions is ERC721Full {
     }
 /*
     ipfs://bafybeify7jbo3zmbyctq33abz5sdxeulfliowkdsxv5ykvaa5ld5vkz3ra
-    CT ^^^
-    
-    ipfs://bafybeigjqgeb6iyifi7rfavjxnsfxtdh2r5ewce4c5zxhshqlho43k3mga
-    EM artwork ^^^
+    EXP - CT artwork ^^^
     
     ipfs://bafybeibain6fuzex36zw3rfcm36n3po5aslhe5owbccneacnrcefv3mpcq
-    EXP The Garden audio (demo) ^^^
+    EXP - The Garden audio (demo) ^^^
     
     ipfs://bafybeigjqgeb6iyifi7rfavjxnsfxtdh2r5ewce4c5zxhshqlho43k3mga
-    EXP Emagination audio ^^^
+    EXP - Emagination artwork ^^^
+    
+    ipfs://bafybeigjqgeb6iyifi7rfavjxnsfxtdh2r5ewce4c5zxhshqlho43k3mga
+    EXP - Emagination audio ^^^
 */
     mapping(uint => Artwork) public art_collection;
 
