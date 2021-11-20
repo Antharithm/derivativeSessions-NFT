@@ -2,7 +2,7 @@
 
 ###
 
-Contributors:
+### Contributors:
 Anthony Tilotta, Kate Peskova
 
 ###
