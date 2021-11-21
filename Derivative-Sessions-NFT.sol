@@ -14,17 +14,20 @@ contract DerivativeSessions is ERC721Full {
         uint appraisal_value;
     }
 /*
+    ipfs://bafkreihhxtl7nzep2t4akvlrjs72slrefeshoznqg47p5or5himh4d6vw4
+    Derivative Sessions Logo ^^^
+    
     ipfs://bafybeify7jbo3zmbyctq33abz5sdxeulfliowkdsxv5ykvaa5ld5vkz3ra
-    EXP - CT artwork ^^^
-    
-    ipfs://bafybeibain6fuzex36zw3rfcm36n3po5aslhe5owbccneacnrcefv3mpcq
-    EXP - The Garden audio (demo) ^^^
+    Conscious Tortoise artwork ^^^
     
     ipfs://bafybeigjqgeb6iyifi7rfavjxnsfxtdh2r5ewce4c5zxhshqlho43k3mga
-    EXP - Emagination artwork ^^^
+    Emagination artwork ^^^
+    
+    ipfs://bafybeih4b2u3onjlc7pcs26ydohxasnimddeh4nzvbwgeozcdql4iczd5q
+    Expansion Project - The Garden (demo) audio ^^^
     
     ipfs://bafybeigjqgeb6iyifi7rfavjxnsfxtdh2r5ewce4c5zxhshqlho43k3mga
-    EXP - Emagination audio ^^^
+    Expansion Project - Emagination audio ^^^
 */
     mapping(uint => Artwork) public art_collection;
 
