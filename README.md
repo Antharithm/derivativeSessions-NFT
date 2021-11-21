@@ -1,4 +1,4 @@
-### Derivative-Sessions-NFT-Royalties
+### Derivative-Sessions-NFT
 
 ###
 
