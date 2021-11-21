@@ -1,4 +1,4 @@
-![](Frontend/images/ds.jpeg)
+![](Frontend/images/ds1.jpeg)
 
 ### Derivative-Sessions-NFT
 
