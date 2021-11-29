@@ -1,6 +1,6 @@
 ![](Frontend/images/ds1.jpeg)
 
-### Derivative-Sessions-NFT
+### Derivative Sessions - NFT Streaming Royalties
 
 ###
 
