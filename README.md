@@ -5,7 +5,7 @@
 ###
 
 ### Contributors:
-Anthony Tilotta, Kate Peskova
+Anthony Tilotta, Kate Peskova, Soren Wagner
 
 ###
 
